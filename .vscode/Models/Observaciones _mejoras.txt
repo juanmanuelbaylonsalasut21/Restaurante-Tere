@@ -1,8 +1,0 @@
- Optimización del Rendimiento:
-
-Índices de Base de Datos:
-
-Descripción: Se añadieron índices en las tablas con mayor volumen de datos.
-Impacto: Reducción del tiempo de respuesta de las consultas en un 40%.
-
-[Reset para el el Head para posteriormente pasarlo al staging area]
