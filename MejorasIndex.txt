@@ -1,1 +1,4 @@
 Este es un archivo donde se iran guardando las mejoras de las caracteristicas nuevas agregadas al proyecto.
+
+1. Primera mejora:
+Se agregó un menu nuevo acerca de como utilizar la aplicación al usuario.
