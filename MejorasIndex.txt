@@ -1,0 +1,1 @@
+Este es un archivo donde se iran guardando las mejoras de las caracteristicas nuevas agregadas al proyecto.
